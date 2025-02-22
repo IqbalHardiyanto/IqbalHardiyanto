@@ -8,7 +8,7 @@ Saya Lulusan sarjana ilmu komputer Program Studi Informatika 2024. [Cek data ija
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muh-iqbal-h-23820824a/)ku ya.
 
-### Github Static
+### Github Static<br>
 <p align="left">
 <a href="https://github.com/IqbalHardiyanto">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IqbalHardiyanto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
